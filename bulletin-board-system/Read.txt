@@ -1,0 +1,13 @@
+Chat Bulletin Board System using Spring Boot
+& Websocket with design
+
+Developed by: Patricia Mae C. Namoro
+Members: 
+Cyrene Cerillano
+Shan Carl P. Belgica
+Ailyn Manzano
+Regine Taduran
+Adrian Mores
+
+
+From: BSIT-3B

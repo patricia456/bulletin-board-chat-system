@@ -1,0 +1,13 @@
+package com.namoro.spring.ws.api;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BulletinBoardSystemApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
